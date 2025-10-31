@@ -1,4 +1,4 @@
-26725940230775198
+26729463829713511
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59367,12 +59367,26 @@ CASIO_OR-4_RAM_Pin_Header
 14
 14
 Custom_Reto_Chips
+CASIO_RC-2_RAM_Pinheadder
+
+
+0
+21
+21
+Custom_Reto_Chips
 CASIO_RP-8_16_Pin_Headder
 
 
 0
 30
 30
+Custom_Reto_Chips
+CR2023_Battery_Terminal
+
+
+0
+2
+2
 Custom_Reto_Chips
 HD61914
 
